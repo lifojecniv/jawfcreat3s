@@ -11,7 +11,7 @@ A responsive, single-page portfolio. Plain HTML, CSS and JavaScript, so there is
 ## Before you deploy
 Edit `index.html` and replace:
 - `hello@example.com` with your real email
-- the placeholder bio, projects (`Project One` to `Project Four`) and links (`href="#"`)
+- your bio, project and links if they change
 - skill percentages if you want different numbers
 
 ## Deploy
